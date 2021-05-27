@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\roshi\roshi\obj\Debug\roshi.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\roshi\roshi\obj\Debug\roshi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\roshi\roshi\bin\Debug\roshi.exe.config
+C:\Users\lenovo\source\repos\roshi\roshi\bin\Debug\roshi.exe
+C:\Users\lenovo\source\repos\roshi\roshi\bin\Debug\roshi.pdb
+C:\Users\lenovo\source\repos\roshi\roshi\obj\Debug\roshi.exe
+C:\Users\lenovo\source\repos\roshi\roshi\obj\Debug\roshi.pdb
